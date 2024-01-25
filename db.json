@@ -1,0 +1,38 @@
+{
+    "dropdown": [
+        {
+            "displayValue": "Value_1",
+            "ID": "ID_1"
+        },
+        {
+            "displayValue": null,
+            "ID": "ID_2"
+        },
+        {
+            "displayValue": "Value_3",
+            "ID": null
+        },
+        {
+            "displayValue": "Value_4",
+            "ID": ""
+        },
+        {
+            "displayValue": "",
+            "ID": "ID_5"
+        },
+        {
+            "displayValue": "",
+            "ID": null
+        },
+        {
+            "displayValue": null,
+            "ID": ""
+        },
+        {
+            "displayValue": "Value_8"
+        },
+        {
+            "ID": "ID_9"
+        }
+    ]
+}
